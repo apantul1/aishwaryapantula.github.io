@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant: Micronano-Science of small structures"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Johsn Hopkins University, Department of Chemical and Biomolecular Engineering"
+date: Fall 2021
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
